@@ -1,3 +1,9 @@
+/* 1. change to ANSI C
+ * 2. functions not allowed in this stage
+ * 3. and/or is also not allowed in this stage
+ * 4. else is not allowed in this stage
+ */
+
 #include <stdio.h>
 
 void replace_multiple_blanks(void);
